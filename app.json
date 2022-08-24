@@ -40,7 +40,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "乛𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓🦋⁪⁬",
+        "value": "Music Bot⁪⁬",
         "required": true
       },
       "OWNER_ID": {
@@ -80,7 +80,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/jaabirosman/AlexaMusic",
+        "value": "https://github.com/amiinaxmed/AlexaMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
